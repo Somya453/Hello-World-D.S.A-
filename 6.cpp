@@ -1,0 +1,18 @@
+#include <iostream>
+using namespace std;
+
+int main(){
+    int T;
+    cin>>T;
+
+
+    // Test cases
+    while(T--){
+        int A, B;
+        cin>>A>>B;
+
+        cout<<A%B<<endl;
+
+
+    }
+}
